@@ -1,2 +1,2 @@
-# chrome-dino-hand-gestures
-controlling the popular game "Chrome dino" with hand gestures using ai/ml libraries
+# ML-gestrues
+controlling the popular game "Chrome dino" with right-hand using pyauto-gui and cv2.
